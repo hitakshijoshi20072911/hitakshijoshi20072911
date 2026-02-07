@@ -1,4 +1,4 @@
-# Hi, I'm Hits 👋
+# Hi, I'm Hitakshi Joshi 👋
 
 I’m a **tech enthusiast**, problem-solver, and builder who enjoys turning ideas into functional, scalable software.  
 Currently pursuing **B.Tech in Information Technology**, I actively explore **full-stack development, backend systems, and applied AI**, learning through hands-on projects, hackathons, and open-source contributions.
