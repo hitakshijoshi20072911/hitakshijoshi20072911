@@ -20,12 +20,12 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 ## 🌐 Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hitakkshi-joshi-0977ba37a/)
-- **Email:** hitakshijoshi2007.2911@gmail.com
+- [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hitakshijoshi2007.2911@gmail.com)
 - **Portfolio:** *(Coming soon)*
 
 ---
 
-## 🧠 Tech Focus
+## 🧠 Tech Focus: ![MERN](https://img.shields.io/badge/MERN-Full%20Stack-3FA037?style=flat)
 
 ### Currently Exploring
 - Full-Stack Development (MERN)
@@ -38,39 +38,46 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
-- JavaScript
-- Python
-- C / C++
-- SQL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+
 
 ### Frontend
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- React  
-- JavaScript (ES6+)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat&logo=javascript)
+
 
 ### Backend & APIs
-- Node.js  
-- Express.js  
-- FastAPI  
-- REST APIs  
-- JWT Authentication  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-orange?style=flat)
+![JWT](https://img.shields.io/badge/JWT-Authentication-purple?style=flat&logo=jsonwebtokens)
+
 
 ### Databases
-- MongoDB  
-- PostgreSQL  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
 
 ### AI / ML & Tools
-- Python Libraries  
-- LangChain (Exploring)  
-- OpenAI APIs  
+![Python Libraries](https://img.shields.io/badge/Python-Libraries-blue?style=flat&logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-Exploring-black?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat&logo=openai)
+ 
 
 ### DevOps & Tooling
-- Git  
-- GitHub  
-- VS Code  
-- npm  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+
 
 ---
 
