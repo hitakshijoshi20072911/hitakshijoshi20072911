@@ -19,7 +19,8 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 
 ## 🌐 Connect With Me
 
-- **LinkedIn:** [[Your LinkedIn Link]](https://www.linkedin.com/in/hitakkshi-joshi-0977ba37a/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/hitakkshi-joshi-0977ba37a/])
+
 - **Email:** hitakshijoshi2007.2911@gmail.com
 - **Portfolio:** *(Coming soon)*
 
