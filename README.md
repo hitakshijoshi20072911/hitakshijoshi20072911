@@ -1,4 +1,4 @@
-# Hi, I'm Hitakshi Joshi 👋
+# Hi, I'm Hitakshi Joshi 
 
 I’m a **tech enthusiast**, problem-solver, and builder who enjoys turning ideas into functional, scalable software.  
 Currently pursuing **B.Tech in Information Technology**, I actively explore **full-stack development, backend systems, and applied AI**, learning through hands-on projects, hackathons, and open-source contributions.
@@ -112,20 +112,6 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 
 ---
 
-## ⭐ Featured Projects
-
-> *(Pinned repositories recommended)*
-
-- **🔗 Project Name 1** — Short one-line description  
-  *(Tech: MERN / Python / AI)*
-
-- **🔗 Project Name 2** — Short one-line description  
-  *(Tech: Backend / APIs / Database)*
-
-- **🔗 Project Name 3** — Short one-line description  
-  *(Tech: Hackathon / Open Source)*
-
----
 
 ## 🤝 Open to Collaboration
 
