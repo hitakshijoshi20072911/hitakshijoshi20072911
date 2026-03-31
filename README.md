@@ -7,25 +7,24 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 
 ---
 
-## 🚀 Highlights
+##  Highlights
 
-- 🏆 **Hackathon Winner**
-- 🥇 **3× Hackathon Finalist**
-- 🌱 **Active Open Source Contributor**
-- 💻 Strong focus on **project-driven learning**
-- 🔍 Interested in **scalable systems, clean architecture, and emerging tech**
+-  **Hackathon Winner**
+-  **3× Hackathon Finalist**
+-  **Active Open Source Contributor**
+-  Strong focus on **project-driven learning**
+-  Interested in **scalable systems, clean architecture, and emerging tech**
 
 ---
 
-## 🌐 Connect With Me
+## Socials
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hitakkshi-joshi-0977ba37a/)
 - [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hitakshijoshi2007.2911@gmail.com)
-- **Portfolio:** *(Coming soon)*
 
 ---
 
-## 🧠 Tech Focus: ![MERN](https://img.shields.io/badge/MERN-Full%20Stack-3FA037?style=flat)
+##  Tech Focus: ![MERN](https://img.shields.io/badge/MERN-Full%20Stack-3FA037?style=flat)
 
 ### Currently Exploring
 - Full-Stack Development (MERN)
@@ -68,7 +67,7 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 
 ### AI / ML & Tools
 ![Python Libraries](https://img.shields.io/badge/Python-Libraries-blue?style=flat&logo=python)
-![LangChain](https://img.shields.io/badge/LangChain-Exploring-black?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-Exploring-black?style=flat)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat&logo=openai)
  
 
@@ -78,10 +77,9 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
-
 ---
 
-## 📚 How I Learn & Build
+##  How I Learn & Build
 
 - Start with **fundamentals before frameworks**
 - Build **small → scalable** projects
@@ -92,7 +90,7 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 
 ---
 
-## 🔨 What I’m Working On
+##  What I’m Working On
 
 - Building **full-stack MERN applications**
 - Designing clean and scalable backend APIs
@@ -102,7 +100,7 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 
 ---
 
-## 🎯 What I Want to Learn Next
+##  What I Want to Learn Next
 
 - Scalable backend system design
 - System design fundamentals
@@ -113,7 +111,7 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 ---
 
 
-## 🤝 Open to Collaboration
+##  Open to Collaboration
 
 I’m always open to:
 - Open-source contributions
