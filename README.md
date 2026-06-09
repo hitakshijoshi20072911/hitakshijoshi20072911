@@ -79,17 +79,6 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 
 ---
 
-##  How I Learn & Build
-
-- Start with **fundamentals before frameworks**
-- Build **small → scalable** projects
-- Debug deeply to improve problem-solving
-- Write readable, maintainable code
-- Refactor often to improve structure
-- Learn from open-source codebases
-
----
-
 ##  What I’m Working On
 
 - Building **full-stack MERN applications**
@@ -110,14 +99,6 @@ I believe in learning by building, breaking, and rebuilding — focusing on real
 
 ---
 
-
-##  Open to Collaboration
-
-I’m always open to:
-- Open-source contributions
-- Hackathons & tech events
-- Learning opportunities
-- Interesting project ideas
 
 If you think we can build something cool together — feel free to reach out 🚀
 
